@@ -37,9 +37,11 @@ top: 131px;
 }
 
 .pro-image{
-   margin-top: 26px;
+  max-height: 240px;
+   padding-top: 26px;
    margin-left:599px ;
    margin-right: 599px;
+   align-items: center;
 
 }
 
@@ -57,16 +59,14 @@ top: 131px;
 
 width: 244px;
 height: 65px;
-
 border-radius: 8px;
-
 background-color: rgb(13, 19, 33);
 color: rgb(255, 255, 255);
 font-weight: 600;
 font-size: 20px;
 margin-left: 598px;
 margin-top: 22px;
-margin-bottom: 45px;
+margin-bottom:55px;
 font-family: "Azeret Mono", monospace;
 }
 
@@ -125,6 +125,7 @@ font-family: "Azeret Mono", monospace;
 }
 .section-with-image{
     margin-bottom: 128px;
+   
 
 }
 
@@ -144,9 +145,6 @@ font-family: "Azeret Mono", monospace;
   padding-bottom: 80px;
 
   
-
-
-  
 }
 
 
@@ -157,6 +155,7 @@ font-family: "Azeret Mono", monospace;
   padding-left: 48px;
   padding-bottom: 32px;
   font-family: "Azeret Mono", monospace;
+ 
   
   
 }
@@ -187,6 +186,7 @@ font-family: "Azeret Mono", monospace;
   font-family: "Azeret Mono", monospace;
 }
 .img-1{
+  align-items: center;
   background-color: #FFFFFF;
   margin-right: 97px;
   font-family: "Azeret Mono", monospace;
