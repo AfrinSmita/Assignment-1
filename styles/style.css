@@ -98,9 +98,13 @@ margin-bottom: 45px;
 .why-web-head{
   font-weight: bolder;
   font-size: 32px;
+  text-align: center;
+  margin-bottom: 24px;
 }
 .why-web-paragraph{
+  text-align: center;
   font-size: 16px;
+  margin-bottom: 48px;
 }
 .section-with-image{
     margin-bottom: 128px;
@@ -167,3 +171,47 @@ margin-bottom: 45px;
   
 }
 
+.video{
+  margin-top:0px;
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+  align-items: center;
+}
+
+/* section 4 */
+.section-4{
+margin-top: 218px;
+  max-width: 1140px;
+  padding-left:200px;
+ 
+  
+}
+
+.divs-html-css{
+  display: flex;
+  gap: 24px;
+  
+  
+ 
+  
+}
+.html{
+  background-color: rgba(255, 76, 30, 0.05);
+  width: 364px;
+  border-radius: 16px;
+  padding: 40px ;
+}
+.css{
+  background-color: rgba(0, 76, 232, 0.05);
+  width: 364px;
+  border-radius: 16px;
+  padding: 40px ;
+}
+.javascript{
+  background-color: rgba(255, 223, 0, 0.05);
+  width: 364px;
+  border-radius: 16px;
+  padding: 40px ;
+
+}
